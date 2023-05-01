@@ -1,0 +1,7 @@
+.home {
+}
+
+.home__display {
+  display: flex;
+  height: 100%;
+}
