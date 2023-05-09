@@ -5,8 +5,8 @@ Potential buyers can find the advertisements and bid on them. Auction pages have
 Users also receive a notification once an auction starts/ends.
 
 ### Links
-- <a href="https://live-auctions.netlify.app/"><strong>live website</strong></a>
-- <a href="https://youtu.be/8IAzQQJ47to"><strong>demo video</strong></a>
+- <a href="https://644fe6382e14223c810e5edc--gilded-caramel-d72ea9.netlify.app/login"><strong>live website</strong></a>
+
   <br>
   <br>
 
